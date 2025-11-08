@@ -1,0 +1,6 @@
+ {
+            "name": "cyfz",
+            "type": 3,
+            "api": "csp_cyfz",
+            "ext": "https://raw.githubusercontent.com/imeiking/js/refs/heads/main/cyfz.js"
+        }
