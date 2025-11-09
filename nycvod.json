@@ -1,0 +1,6 @@
+{
+      "name": "纽约影院",
+      "type": 3,
+      "api": "csp_nycvod",
+      "ext": "https://raw.githubusercontent.com/imeiking/js/refs/heads/main/nycvod.js"
+    }
