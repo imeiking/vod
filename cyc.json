@@ -2,5 +2,5 @@
       "name": "次元城动画",
       "type": 3,
       "api": "csp_cyc",
-      "ext": ""
+      "ext": "https://raw.githubusercontent.com/imeiking/js/refs/heads/main/cyc.js"
     }
