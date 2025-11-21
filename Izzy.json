@@ -1,0 +1,6 @@
+{
+            "name": "厂长资源",
+            "type": 3,
+            "api": "csp_czzy",
+            "ext": "https://raw.githubusercontent.com/imeiking/js/refs/heads/main/czzy.js"
+        }
