@@ -1,0 +1,6 @@
+{
+      "name": "多乐影视",
+      "type": 3,
+      "api": "csp_duole",
+      "ext": "https://raw.githubusercontent.com/imeiking/js/refs/heads/main/duole.js"
+    }
