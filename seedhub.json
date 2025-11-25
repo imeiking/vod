@@ -1,0 +1,6 @@
+{
+            "name": "seedhub",
+            "type": 3,
+            "api": "csp_seedhub",
+            "ext": "https://raw.githubusercontent.com/imeiking/js/refs/heads/main/seedhub.js"
+}
