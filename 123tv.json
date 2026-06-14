@@ -1,0 +1,6 @@
+{
+            "name": "123tv",
+            "type": 3,
+            "api": "csp_123tv",
+            "ext": "https://raw.githubusercontent.com/imeiking/js/refs/heads/main/123tv.js"
+        }
